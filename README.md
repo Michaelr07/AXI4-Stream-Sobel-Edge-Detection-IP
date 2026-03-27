@@ -39,6 +39,4 @@ Built upon a centralized `video_pkg`, this IP shares the same structural definit
 2.  **PAckage into IP:** Go to tools and 'Create and Package New IP'
 3.  **Parameters**: Set `H_ACTIVE` and `V_ACTIVE` to match your sensor's resolution.
 4.  **AXI-Stream Path**: Place the IP between your camera capture core and your DMA engine. 
-5.  **Threshold Input**: Map the 8-bit `THRESHOLD` input to your board's physical switches for immediate visual feedback.
-
-**Would you like me to help you draft the final LinkedIn post or a Portfolio summary that links these two individual IP repositories together as a "Hardware Vision Suite"?**
+5.  **Threshold Input**: Map the 8-bit `THRESHOLD` input to your board's physical switches for immediate visual feedback
